@@ -21,6 +21,7 @@ body {
 }
 nav i{
   font-size: 30px;
+  color: #b47834;
 }
 nav .logo{
   font-size: 350%;
@@ -39,6 +40,9 @@ nav img {
 
 .logo {
   width: 140px;
+}
+.logo span{
+  color: #db8b30;
 }
 
 nav ul li {
@@ -86,11 +90,12 @@ nav ul li a:hover::after{
 #about {
   padding: 80px 0;
   color: #ababab;
-  /* background-image: url(images/background-about.jpg);
+  /*background-image: url(images/about1.jpg);
   background-size: cover;
   background-position: center;
-  background-color: #080808; */
-
+  background-color: #0808081c;
+  !TRYING TO CHANGE BACKGROUND FOR THE ABOUT SECTION*/
+  
 }
 .row {
   display: flex;
